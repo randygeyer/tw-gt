@@ -13,7 +13,6 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.thoughtworks.problem3.model.symbols.MetalSymbol;
 import com.thoughtworks.problem3.utils.Validate;
 
 /**

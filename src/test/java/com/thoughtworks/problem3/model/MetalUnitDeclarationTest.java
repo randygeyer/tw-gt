@@ -3,7 +3,8 @@
  */
 package com.thoughtworks.problem3.model;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 import java.math.BigDecimal;
 
@@ -12,8 +13,6 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.thoughtworks.problem3.model.QueryContext;
-import com.thoughtworks.problem3.model.MetalUnitDeclaration;
 import com.thoughtworks.problem3.model.symbols.MetalSymbol;
 import com.thoughtworks.problem3.model.symbols.NumeralExpression;
 import com.thoughtworks.problem3.model.symbols.NumeralSymbol;

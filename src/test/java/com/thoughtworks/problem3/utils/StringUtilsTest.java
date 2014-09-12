@@ -3,13 +3,13 @@
  */
 package com.thoughtworks.problem3.utils;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import com.thoughtworks.problem3.utils.StringUtils;
 
 /**
  * Unit test fixture for {@link StringUtils}.

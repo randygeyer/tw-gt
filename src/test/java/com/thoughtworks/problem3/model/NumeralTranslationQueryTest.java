@@ -8,8 +8,6 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.thoughtworks.problem3.model.QueryContext;
-import com.thoughtworks.problem3.model.NumeralTranslationQuery;
 import com.thoughtworks.problem3.model.symbols.NumeralExpression;
 import com.thoughtworks.problem3.model.symbols.NumeralSymbol;
 import com.thoughtworks.problem3.model.symbols.NumeralSymbolTable;

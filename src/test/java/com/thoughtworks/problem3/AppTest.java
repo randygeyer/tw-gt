@@ -4,8 +4,6 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import com.thoughtworks.problem3.App;
-
 /**
  * Unit test fixture for simple {@link App}.
  * 

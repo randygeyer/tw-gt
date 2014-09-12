@@ -12,8 +12,6 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.thoughtworks.problem3.model.QueryContext;
-import com.thoughtworks.problem3.model.MetalValueQuery;
 import com.thoughtworks.problem3.model.symbols.MetalSymbol;
 import com.thoughtworks.problem3.model.symbols.MetalSymbolTable;
 import com.thoughtworks.problem3.model.symbols.NumeralExpression;

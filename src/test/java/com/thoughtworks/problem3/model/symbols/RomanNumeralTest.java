@@ -12,8 +12,6 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.thoughtworks.problem3.model.symbols.RomanNumeral;
-
 /**
  * Unit test fixture for {@link RomanNumeral}.
  * 

@@ -3,14 +3,9 @@
  */
 package com.thoughtworks.problem3.model.symbols;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-
-import com.thoughtworks.problem3.model.symbols.NumeralExpression;
-import com.thoughtworks.problem3.model.symbols.NumeralSymbol;
-import com.thoughtworks.problem3.model.symbols.NumeralSymbolTable;
-import com.thoughtworks.problem3.model.symbols.RomanNumeral;
 
 /**
  * Unit test fixture for {@link NumeralExpression}.

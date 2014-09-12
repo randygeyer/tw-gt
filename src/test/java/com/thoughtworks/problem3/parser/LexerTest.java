@@ -14,11 +14,6 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.thoughtworks.problem3.parser.Lexer;
-import com.thoughtworks.problem3.parser.ParseException;
-import com.thoughtworks.problem3.parser.Token;
-import com.thoughtworks.problem3.parser.TokenType;
-
 /**
  * Unit test fixture for {@link Lexer}.
  * 
