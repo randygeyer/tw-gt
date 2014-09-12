@@ -61,7 +61,7 @@ public abstract class Rule {
      */
     protected int parseInteger(QueryContext context, Rule rule) {
         rule.parse(context);
-        final Integer integer = new Integer(getToken().getText());
+        final Integer integer = Integer.valueOf(getToken().getText());
         nextToken();
         return integer.intValue();
     }
